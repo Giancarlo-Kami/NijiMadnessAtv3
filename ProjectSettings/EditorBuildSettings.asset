@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 2d2dcb5b713769f42b4843baadc547a1
+  - enabled: 1
+    path: Assets/Scenes/CharSelec.unity
+    guid: 2d947658709f5564892d6e8da26a91de
+  - enabled: 1
+    path: Assets/Scenes/Text1.unity
+    guid: 0423b66cd344b804db3277054b0ca3a5
+  - enabled: 1
+    path: Assets/Scenes/Fase1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Text2.unity
+    guid: f3daf34b2f1eeb045a2614d1623d43d0
+  - enabled: 1
+    path: Assets/Scenes/Fase2.unity
+    guid: fabfddf7276b2d640bdd0a646bf50acb
+  - enabled: 1
+    path: Assets/Scenes/Text3.unity
+    guid: 7f76357769eebf84ba451fee0ae2c902
+  - enabled: 1
+    path: Assets/Scenes/Fase3.unity
+    guid: 54da6018bd406ba439ee61bf91a09438
+  - enabled: 1
+    path: Assets/Scenes/TextLose.unity
+    guid: dc9894d71c7446244b2b02dca9640fb8
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 4aa724c71bb120e4699cfb391b96a252
+  - enabled: 1
+    path: Assets/Scenes/TextWin.unity
+    guid: 0a2f3dc5270631c4d91a1363cf7da0aa
+  - enabled: 1
+    path: Assets/Scenes/Win.unity
+    guid: 7dffa3bb415915240988c1979a45aa81
+  - enabled: 1
+    path: Assets/Scenes/DifSelect.unity
+    guid: dbb4422d8bb75224fbe12135329bde27
+  m_configObjects: {}
